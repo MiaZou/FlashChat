@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>467358533407-l9mv5hlml22m039dcfgjlugtnb5ru47k.apps.googleusercontent.com</string>
+	<string>455177168914-p788en07rvuumk36tu45hkt6cgbebik5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.467358533407-l9mv5hlml22m039dcfgjlugtnb5ru47k</string>
+	<string>com.googleusercontent.apps.455177168914-p788en07rvuumk36tu45hkt6cgbebik5</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAZe0oG--JzcfrHSzVl4wF1Sjz37Zqr30Q</string>
+	<string>AIzaSyAnop-qDa3PSvqERlVjYM16FxOV3EgjmBA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>467358533407</string>
+	<string>455177168914</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.mFlashChat</string>
 	<key>PROJECT_ID</key>
-	<string>flash-chat-d55b7</string>
+	<string>flashchat-b8d85</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flash-chat-d55b7.appspot.com</string>
+	<string>flashchat-b8d85.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:467358533407:ios:eed4b8a1b7195fa8a3122a</string>
+	<string>1:455177168914:ios:560d71119b2a2307ae10cb</string>
 	<key>DATABASE_URL</key>
-	<string>https://flash-chat-d55b7.firebaseio.com</string>
+	<string>https://flashchat-b8d85.firebaseio.com</string>
 </dict>
 </plist>
